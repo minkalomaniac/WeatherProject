@@ -1,0 +1,22 @@
+body {
+  background-color: #F24C4C;
+}
+h1{
+  color: white;
+  font-style: oblique;
+  align-items: flex;
+
+}
+.cityName {
+  color: blue;
+  font-style: oblique;
+}
+p {
+  color:#F7D716;
+  font-style: oblique;
+  font-size: 3rem
+}
+
+.header {
+  align-items: flex;
+}
